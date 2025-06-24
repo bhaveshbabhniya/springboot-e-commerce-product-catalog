@@ -37,9 +37,9 @@ It supports separate functionalities for **Sellers** and **Buyers**.
 - **Hibernate + JPA**
 
 ---
-
-## 📂 Project Structure
-```
+<details>
+<summary><b>📂 Project Structure (Click to Expand)</b></summary>
+  <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
 springboot-e-commerce-product-catalog/
 ├── src/
 │   ├── main/
@@ -108,7 +108,8 @@ springboot-e-commerce-product-catalog/
 │   │       ├── application.properties
 ├── pom.xml
 └── README.md
-```
+    </div>
+</details>
 ---
 
 ## ⚙️ Setup Instructions
